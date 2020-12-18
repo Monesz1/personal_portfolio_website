@@ -1,0 +1,207 @@
+{
+  "basics": {
+    "name": "Molnár Attila",
+    "label": "Project from scrach to production",
+    "picture": "",
+    "email": "atimolnarati@gmail.com",
+    "phone": "+36 30 559 8118",
+    "location": {
+      "address": "Gizella út 18B",
+      "postalCode": "1143",
+      "city": "Budapest",
+      "countryCode": "HU",
+      "region": "Hungary"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "Attila Molnar",
+        "url": "https://twitter.com/AttilaM71564834"
+      },
+      {
+        "network": "Instagram",
+        "username": "4ti_mo",
+        "url": "https://www.instagram.com/4ti_mo"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "FreeSoft",
+      "position": "Software Developer",
+      "website": "https://www.freesoftus.com/",
+      "startDate": "2020-07-01",
+      "endDate": "",
+      "summary": "Building legacy modernisation software for clients in Java. Working for FreeSoft I improved drastically my Java knowledge and I also learned many other softwares to use, like: JMetter, Oracle SQL Developer and Notepad++. For personal improvements in my free time I learned the basics of the Python programming language and Linux",
+      "highlights": [
+        "Migrate various Mainframe based languages and databases to modern technology",
+        "Java AWT, Swing and JavaFX UI integration"
+      ]
+    },
+	 {
+      "company": "FiveGuys",
+      "position": "Team Leader",
+      "website": "https://www.fiveguys.com/",
+      "startDate": "2017-10-22",
+      "endDate": "2019-12-28",
+      "summary": "Role tasks:",
+      "highlights": [
+        "Team driving towards success and solving issues in the team",
+        "Trust and respect throughout the team",
+		"Create solid guidelines",
+		"Introducing new members to the team and coaching them through new tasks",
+		"Organizing hangouts for the team, which helps the team to stick together, which helps to increase the sales on the store",
+		"Managing delivery, helping in stock count and managing the money on the till",
+		"Hand out and manage the work in the team"
+      ]
+    },
+	 {
+      "company": "McDonalds",
+      "position": "Delivery Manager",
+      "startDate": "2015-10-23",
+      "endDate": "2017-06-10",
+      "summary": "Role tasks:",
+      "highlights": [
+		"Introducing new members to the team and coaching them through new tasks",
+		"Managing delivery, helping in stock count and managing the money on the till",
+		"Hand out and manage the work in the team",
+		"Establish and refine delivery processes",
+		"Ensure that processes are efficient and cost-effective",
+		"Setting objectives and defining responsibilities",
+		"Motivate a team of people to succeed"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Leto Hotel",
+      "position": "Receptionist",
+      "website": "https://www.feelgreece.com/en/leto-megalopolis",
+      "startDate": "2017-06-20",
+      "endDate": "2017-10-22",
+      "summary": "Helping around to serve the customers and cleaning",
+      "highlights": [
+        "Practicing FalunDafa meditation"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Partium Christian University",
+      "area": "Art",
+      "studyType": "Bachelor",
+      "startDate": "2012-06-01",
+      "endDate": "2014-01-01",
+      "courses": [
+        "The fundamental of Digital Marketing"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "Pro",
+      "keywords": [
+        "JavaFX",
+        "AWT",
+        "Swing",
+		"Java Core",
+		"Class Design",
+		"Object Oriented Programing",
+		"Data Structures",
+		"Memory Management"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Satisfactory",
+      "keywords": [
+        "PyCharm",
+        "Data Structure & Data Anasysis",
+		"Object Oriented Programing",
+		"Data anasysis with Numpy & Pandas libraries"
+      ]
+    },
+	{
+      "name": "Version Control Systems",
+      "level": "Satisfactory",
+      "keywords": [
+        "Git",
+        "GitHub",
+		"Tortoise SVN"
+      ]
+    },
+	{
+      "name": "Server Side",
+      "level": "Satisfactory",
+      "keywords": [
+        "Linux",
+        "bash",
+		"Jenkins",
+		"JMeter"
+      ]
+    },
+	{
+      "name": "Developer Tools & IDE",
+      "level": "Great",
+      "keywords": [
+        "NetBeans",
+        "AndroidStudio",
+		"IntelliJ",
+		"PyCharm",
+		"Arduino",
+		"Anaconda"
+      ]
+    },
+	{
+      "name": "Design & Prototyping Tools",
+      "level": "Aswesome",
+      "keywords": [
+        "Photoshop",
+        "Illustrator",
+		"Figma"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hungarian",
+      "fluency": "Native speaker"
+    },
+	{
+      "language": "English",
+      "fluency": "Full Professional Proficiency"
+    },
+	{
+      "language": "Romanian",
+      "fluency": "Full Professional Proficiency"
+    },
+	{
+      "language": "Spanish",
+      "fluency": "Elementary Proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "How to automate boring stuff",
+      "keywords": [
+        "Book",
+        "Python"
+      ]
+    },
+	{
+      "name": "Shoot some nice photos",
+      "keywords": [
+        "Photography",
+        "Art"
+      ]
+    },
+	{
+      "name": "See new places around the world",
+      "keywords": [
+        "Travel",
+        "Culture"
+      ]
+    }
+  ]
+}
