@@ -7,7 +7,7 @@ tags:
   - Theacher
 ---
 
-![no-alignment](/assets/images/wiseTeacher1200x675.jpg)
+![no-alignment](/assets/images/peanut-butter-cookies-400x200)
 
 There was once a very wise teacher, whose words of wisdom students would come from far and wide to hear. One day as usual, many students began to gather in the teaching room. They came in and sat down very quietly, looking to the front with keen anticipation, ready to hear what the teacher had to say.
 
