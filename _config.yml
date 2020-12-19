@@ -19,7 +19,7 @@ subtitle: "Version 2.0"
 email: atimolnarati@gmail.com
 description: Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.
 baseurl: "personal_portfolio_website" # the optional subpath of your site, e.g. "/blog"
-url: "https://www.oriash.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: #"https://www.oriash.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Molnár Attila
   twitter: AttilaM71564834
