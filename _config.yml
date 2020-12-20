@@ -51,6 +51,9 @@ feed:
 paginate: 10
 paginate_path: /page:num/
 
+disqus:
+    shortname: https-monesz1-github-io-personal-portfolio-website
+
 # Exclude from processing.
 exclude:
   - .asset-cache
