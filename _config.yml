@@ -51,7 +51,7 @@ paginate: 10
 paginate_path: /page:num/
 
 disqus:
-    shortname: https-monesz1-github-io-personal-portfolio-website
+    shortname: oriash-com
 
 # Exclude from processing.
 exclude:
