@@ -16,7 +16,7 @@
 lang: en-US
 title: Molnár Attila
 subtitle: "Version 2.0"
-description: Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.
+description: Developing and designing websites and mobile apps from srach. 
 baseurl: "/" #"personal_portfolio_website" # the optional subpath of your site, e.g. "/blog"
 url: "https://oriash.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
