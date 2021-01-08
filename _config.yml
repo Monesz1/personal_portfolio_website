@@ -46,6 +46,7 @@ paginate: 5
 paginate_path: /page:num/
 
 site.og_image: /assets/images/logo.png
+header.image: /assets/images/githubSocialPreview.jpg
 
 disqus:
     shortname: oriash-com
