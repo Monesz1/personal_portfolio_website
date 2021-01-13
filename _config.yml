@@ -33,7 +33,7 @@ search_provider: # lunr (default), algolia
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-TS47V2Q1P2"
+    tracking_id: "UA-187320282-1"
     anonymize_ip: false # default
 
 # Build settings
