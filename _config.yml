@@ -30,6 +30,12 @@ search: true # true, false (default)
 search_full_content: true # true, false (default)
 search_provider: # lunr (default), algolia
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-TS47V2Q1P2"
+    anonymize_ip: false # default
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-slate
